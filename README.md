@@ -15,6 +15,4 @@
 
 ####
 
-Outside of [GitHub](https://github.com/alialdemir/), You can **find me. Currently I'm **free to contribute**
-
 [![Linkedin: ali-aldemir](https://img.shields.io/badge/-alialdemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aldemir-659575144/)](https://www.linkedin.com/in/ali-aldemir-659575144/)
