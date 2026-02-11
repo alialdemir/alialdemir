@@ -1,30 +1,70 @@
-**Languages and Tools:**  
+# 👋 Hi, I'm Ali Aldemir
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+**Senior Software Developer | .NET & JavaScript Architect | AI-Driven Systems**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=alialdemir&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+I design and build scalable, production-grade software systems with a strong focus on clean architecture, performance, and real-world impact.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alialdemir&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/alialdemir/github-readme-stats)
+I’ve led web development teams on AI-based projects (including MetaEcu), building intelligent systems that improve complex operational performance using modern backend and frontend technologies.
 
+I enjoy working on:
 
-####
+* Distributed systems & microservices
+* Identity & authentication architectures (JWT, OAuth, Keycloak)
+* AI-assisted engineering workflows
+* High-performance APIs
+* Clean, maintainable backend and frontend architectures
 
-[![Linkedin: ali-aldemir](https://img.shields.io/badge/-alialdemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aldemir-659575144/)](https://www.linkedin.com/in/ali-aldemir-659575144/)
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Backend
+
+* .NET / ASP.NET Core
+* C#
+* Entity Framework Core
+* REST APIs
+* Microservices Architecture
+* JWT / OAuth / Identity Systems
+* Node.js
+
+### 🎨 Frontend
+
+* JavaScript / TypeScript
+* React
+* Angular
+* HTML5 / CSS3 / Sass
+
+### 🗄️ Database
+
+* PostgreSQL
+* MySQL
+* MsSql
+* Oracle
+* MongoDB
+* CouchDB
+
+### ⚙️ DevOps & Tools
+
+* Docker
+* Git
+* CI/CD
+* Linux / Terminal
+* GraphQL
+* Github Action
+* Jenkins
+
+---
+
+## 🧩 Selected Focus Areas
+
+* Designing secure authentication flows for multi-client systems
+* Building scalable backend services for high-traffic environments
+* AI-assisted development using LLMs (ChatGPT, Claude, Gemini) for documentation, system analysis & productivity acceleration
+* Clean architecture and domain-driven design principles
+
+---
+
+## 🤝 Let's Connect
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ali%20Aldemir-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com/in/ali-aldemir-659575144/)](https://www.linkedin.com/in/ali-aldemir-659575144/)
